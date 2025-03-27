@@ -1,3 +1,1 @@
-print("Hello, World!")
-print("conejito malo")
-print("hola hola hola")
+print("Mi name is Sofi")
